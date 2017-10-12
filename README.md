@@ -1,2 +1,2 @@
-# fixandearn
-Fix and Earn Corpo website
+# fix and earn
+Corporate company website
